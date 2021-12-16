@@ -1,3 +1,5 @@
+<img src="./assets/gifFullStackDev.gif">
+
 ### Hi there 👋
 
 <!--
