@@ -47,10 +47,10 @@ Some features of the project:</br>
 <img src="./assets/Kekukis.png" width="350px">
 <p>A dynamic web that consists of an e-commerce simulation developed with vanilla <strong>javascript</strong>, HTML5, and CSS3. Using Sass as a CSS processor, <strong>JQuery</strong>, and bootstrap as a library.
 Some features of the project:
-Filters by categories, add to cart, save information in <strong>Local Storage</strong>. <span><a href="https://github.com/lmfortunato/javascript">Link to project</a></span></p>
+Filters by categories, add to cart, save information in <strong>Local Storage</strong>. <span><a href="https://github.com/lmfortunato/Kekukis_Ecommerce">Link to project</a></span></p>
 </br>
 </br>
 <h4>LA Cirugía Plástica Estética y Reparadora</h4>
 </br>
 <img src="./assets/LA.png" width="350px">
-<p>Responsive static web developed with <strong>HTML5</strong> and <strong>CSS3</strong>. Using <strong>Sass</strong> as a CSS processor and <strong>Bootstrap</strong> as a library. <span><a href="https://github.com/lmfortunato/repositorio_1">Link to project</a></span></p>
+<p>Responsive static web developed with <strong>HTML5</strong> and <strong>CSS3</strong>. Using <strong>Sass</strong> as a CSS processor and <strong>Bootstrap</strong> as a library. <span><a href="https://github.com/lmfortunato/LA_CirugiaPlastica">Link to project</a></span></p>
