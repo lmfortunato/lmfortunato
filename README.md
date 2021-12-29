@@ -40,7 +40,7 @@ Tell me about your proposal to: </br>lucilamfortunato@gmail.com or through Linke
     <img src="./assets/foodApp2.jpeg" width="120px">
 </p>
 <p>Development of a Mobile App using <strong>React Native</strong>
-and <strong>Expo Cli</strong> for the Front-End. The SPA consumes data from <strong>YELP API</strong>
+and <strong>Expo Cli</strong> for the Front-End. The App consumes data from <strong>YELP API</strong>
 Some features of the project:</br>
 · Searches with default search · Show Restaurants · Show Restaurant Details. <span><a href="https://github.com/lmfortunato/foodMobileApp">Link to project</a></span></p>
 </br>
