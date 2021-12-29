@@ -1,3 +1,4 @@
+
 <img src="./assets/gifFullStackDev.gif">
 
 <h1>Hi there! I'm Lu</h1>
@@ -32,10 +33,9 @@ Tell me about your proposal to: </br>lucilamfortunato@gmail.com or through Linke
 
 <h4>Food App</h4>
 </br>
-<img src="./assets/foodApp1.jpeg" width="120px">
-<img src="./assets/foodApp.jpeg" width="120px">
-<img src="./assets/foodApp3.jpeg" width="120px">
-<img src="./assets/foodApp2.jpeg" width="120px">
+<div style="column">
+    <img src="./assets/foodApp1.jpeg" width="250px">
+</div>
 <p>Development of a Mobile App using <strong>React Native</strong>
 and <strong>Expo Cli</strong> for the Front-End. The SPA consumes data from <strong>YELP API</strong>
 Some features of the project:</br>
