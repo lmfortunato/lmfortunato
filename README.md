@@ -2,7 +2,7 @@
 <img src="./assets/gifFullStackDev.gif">
 
 <h1>Hi there! I'm Lu</h1>
-<h2>I'm a Full Stack developer with a strong orientation to Front-End. Currently training myself in Henry's intensive Bootcamp.</h2>
+<h2>I'm a Full Stack developer with a strong orientation to Front-End.</h2>
 </br>
 <h3>I am passionate about learning and I have found something I love doing because I never settled. Even though there's still much for me to learn in this huge sea of knowledge and new technologies, that drives me to keep me on my toes still learning and reinventing myself every step of the way.</h3>
 </br>
